@@ -121,7 +121,6 @@
 	<SubTexture name="eye_human_green.png" x="1283" y="393" width="64" height="69"/>
 	<SubTexture name="eye_human_red.png" x="1048" y="927" width="64" height="69"/>
 	<SubTexture name="eye_psycho_dark.png" x="1283" y="462" width="64" height="69"/>
-	<SubTexture name="eye_psycho_light.png" x="1154" y="1410" width="64" height="69"/>
 	<SubTexture name="eye_red.png" x="1218" y="1422" width="64" height="58"/>
 	<SubTexture name="eye_yellow.png" x="1216" y="1002" width="64" height="69"/>
 	<SubTexture name="eyebrowA.png" x="634" y="802" width="49" height="32"/>
